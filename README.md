@@ -67,7 +67,7 @@ Insert the data into the tables and create facts and dimension tables
  
 		If you encounter any error try to trouble shoot by printing the top few rows in the stl_load_errors table as shown in the figure below:
 <div align='center'>
-<img src="/images/Troubleshoot.png" height="400" width="400">
+<img src="/images/Troubleshoot.png" height="400" width="800">
 </div>
 
 6.  Now perform ETL on the staging tables to obtain the facts and dimension tables.
@@ -75,5 +75,5 @@ Insert the data into the tables and create facts and dimension tables
 Finally, perform analytics using the data in the data warehouse such as the top songs of the month:
 
 <div align='center'>
-<img src="/images/Troubleshoot.png" height="400" width="400">
+<img src="/images/Troubleshoot.png" height="400" width="800">
 </div>
