@@ -72,7 +72,7 @@ Insert the data into the tables and create facts and dimension tables
 <img src="/images/Troubleshoot.png" height="70%" width="70%">
 </div>
 <div align='center'>
-<img src="/images/TroubleshootX.png" height="40%" width="40%">
+<img src="/images/TroubleshootX.png" height="20%" width="20%">
 </div>
 
 6.  Now perform ETL on the staging tables to obtain the facts and dimension tables.
