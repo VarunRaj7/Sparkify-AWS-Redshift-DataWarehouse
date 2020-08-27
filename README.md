@@ -69,10 +69,10 @@ Insert the data into the tables and create facts and dimension tables
      few rows in the stl_load_errors table as shown in the figure below:
      
 <div align='center'>
-<img src="/images/Troubleshoot.png" height="50%" width="50%">
+<img src="/images/Troubleshoot.png" height="70%" width="70%">
 </div>
 <div align='center'>
-<img src="/images/TroubleshootX.png" height="400" width="400">
+<img src="/images/TroubleshootX.png" height="70%" width="70%">
 </div>
 
 6.  Now perform ETL on the staging tables to obtain the facts and dimension tables.
@@ -82,5 +82,5 @@ Insert the data into the tables and create facts and dimension tables
 **Top 5 songs of the month**
 
 <div align='center'>
-<img src="/images/TopSongsOfMonth.png" height="600" width="800">
+<img src="/images/TopSongsOfMonth.png" height="70%" width="70%">
 </div>
