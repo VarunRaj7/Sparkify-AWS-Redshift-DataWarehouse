@@ -69,7 +69,7 @@ Insert the data into the tables and create facts and dimension tables
      few rows in the stl_load_errors table as shown in the figure below:
      
 <div align='center'>
-<img src="/images/Troubleshoot.png" height="200" width="800">
+<img src="/images/Troubleshoot.png" height="50%" width="50%">
 </div>
 <div align='center'>
 <img src="/images/TroubleshootX.png" height="400" width="400">
