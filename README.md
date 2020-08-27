@@ -65,8 +65,9 @@ Insert the data into the tables and create facts and dimension tables
 
 5. Firstly, insert the data into the staging tables `events_staging` and `songs_staging`. 
  
-		If you encounter any error try to trouble shoot by printing the top 
-        few rows in the stl_load_errors table as shown in the figure below:
+     If you encounter any error try to trouble shoot by printing the top 
+     few rows in the stl_load_errors table as shown in the figure below:
+     
 <div align='center'>
 <img src="/images/Troubleshoot.png" height="200" width="800">
 </div>
