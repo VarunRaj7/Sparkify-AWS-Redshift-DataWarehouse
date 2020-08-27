@@ -69,11 +69,14 @@ Insert the data into the tables and create facts and dimension tables
 <div align='center'>
 <img src="/images/Troubleshoot.png" height="400" width="800">
 </div>
+<div align='center'>
+<img src="/images/Troubleshoot.png" height="400" width="400">
+</div>
 
 6.  Now perform ETL on the staging tables to obtain the facts and dimension tables.
 
 Finally, perform analytics using the data in the data warehouse such as the top songs of the month:
 
 <div align='center'>
-<img src="/images/Troubleshoot.png" height="400" width="800">
+<img src="/images/TopSongOfMonth.png" height="400" width="800">
 </div>
