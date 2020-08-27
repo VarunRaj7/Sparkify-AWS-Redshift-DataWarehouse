@@ -77,7 +77,9 @@ Insert the data into the tables and create facts and dimension tables
 
 6.  Now perform ETL on the staging tables to obtain the facts and dimension tables.
 
-Finally, perform analytics using the data in the data warehouse such as the top songs of the month:
+#### Analytics using the data in the data warehouse 
+
+**Top 5 songs of the month**
 
 <div align='center'>
 <img src="/images/TopSongsOfMonth.png" height="600" width="800">
